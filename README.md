@@ -2,7 +2,7 @@
 
 > TRILHA EXPLORER
 
-[Acesse aqui!]()
+[Acesse aqui!](https://4damanthys.github.io/N.L.W.-e-Sports_Set22)
 
 ![Preview](./Config/preview.png)
 
